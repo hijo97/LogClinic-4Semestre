@@ -1,0 +1,13 @@
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\bin\Debug\Logclinic.exe.config
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\bin\Debug\Logclinic.exe
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\bin\Debug\Logclinic.pdb
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.Properties.Resources.resources
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.csproj.GenerateResource.cache
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.csproj.CoreCompileInputs.cache
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.exe
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.pdb
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.FrmLogin.resources
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.csproj.AssemblyReference.cache
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.FrmPrincipal.resources
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.FrmPacientes.resources
+D:\15 - FACULDADE\2025 - INFORMATICA PARA NEGOCIOS\02 - PROJETO INTEGRADOR\LOGCLINIC-CSharp\Logclinic\Logclinic\obj\Debug\Logclinic.FrmServicos.resources
